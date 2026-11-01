@@ -40,7 +40,7 @@ list_for_if = [i for i in range(0,10) if i %2 != 0]
 print(list_for_if)
 
 
-#Program 9.2 Manupulasi List 
+#Program 9.2 Manipulasi List 
 
 ## --- Operasi LIST ---
 
